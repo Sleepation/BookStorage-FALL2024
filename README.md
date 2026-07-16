@@ -25,4 +25,4 @@ A Java project which adds and stores and helps search/compare books with their p
 - The get features will only display the result.
 
 - Main Menu:
-- <img width="360" height="146" alt="image" src="https://github.com/user-attachments/assets/dc880a11-68d1-431f-8108-1fcbf09e72f0" />
+<img width="360" height="146" alt="image" src="https://github.com/user-attachments/assets/dc880a11-68d1-431f-8108-1fcbf09e72f0" />
